@@ -10,6 +10,7 @@ By the end of this workshop, you'll be able to develop and manage data analysis 
 
 ### Session 1: Git, GitHub, and Python Scripts
 - [**Git Slides**](https://docs.google.com/presentation/d/1E9Ap5-I2Z5R7aGThrE6gF_eFwFvvOseedldnha76V6w/edit?usp=sharing): The basics of git and GitHub
+<<<<<<< HEAD
 - [**Exercises**](session1/exercises.md): The basics of creating Python scripts
 
 <<<<<<< HEAD
@@ -18,3 +19,6 @@ Change
 
 Main
 >>>>>>> 7ebf08a18cd21b8a301bedc9817d67b72571b094
+=======
+- [**Exercises**](session1/exercises.md): The basics of creating Python scripts
+>>>>>>> e938552b990ce5dbdefc1e7c963ebcb6b2780550
