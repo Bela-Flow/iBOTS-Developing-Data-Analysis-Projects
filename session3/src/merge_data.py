@@ -3,7 +3,6 @@ from tqdm import tqdm
 from scipy.io import loadmat
 
 def merge_pupil_data(all_mat_files,pupil_variable):
-    
     pupil_area_data = []
     for filename in tqdm(all_mat_files, desc=f"Merging the {pupil_variable} data"):
         pupil_area_data_per_trial = loadmat(filename)[pupil_variable].squeeze()
